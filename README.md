@@ -1,11 +1,34 @@
-This project analyzes the applicant journey for courses and scholarship program to understand where potential applicants drop off and why marketing efforts do not always translate into successful enrollments. The dashboard explores the entire funnel, from application to acceptance, to identify opportunities for improving conversion and retention.
+<img width="1600" height="739" alt="WhatsApp Image 2026-11-24 at 3 28 18 AM" src="https://github.com/user-attachments/assets/f2ed4ee5-0508-4b3d-94a5-24a946792bd1" />
+<img width="1600" height="744" alt="WhatsApp Image 2026-11-24 at 3 27 11 AM" src="https://github.com/user-attachments/assets/6b622273-d583-432d-ab49-02622e3568af" />
 
-Why do some marketing campaigns generate a high number of applicants but fail to achieve the expected conversion rate? This project investigates whether the main challenge lies in attracting applicants or in their experience throughout the application process.
+# Applicant Funnel & Conversion Analysis | Tableau
 
-The analysis suggests that a significant portion of applicant drop-off is driven by the application experience rather than marketing performance. Clearer eligibility requirements, a more structured application form, improved onboarding, mentorship after acceptance, and stronger communication around deadlines could help increase completion rates. The findings also highlight the importance of focusing on high-performing regions and building partnerships with educational institutions to improve applicant quality and engagement.
+Find the live interactive version here: https://public.tableau.com/app/profile/nada.nabeeh/viz/LearnersExperienceProject/Applicants
 
-this project is made by: Tableau, Excel for Cleaning.
+This Tableau project analyzes the application process for courses and scholarship programs. It focuses on applicant drop-off, conversion rates, and the reasons why some applicants do not complete the process.
 
-Successful marketing is not only about attracting more applicants—it is about creating a smooth and engaging journey that encourages them to complete the process. Understanding user behavior across the application funnel enables organizations to improve conversion rates and deliver a better overall experience.
-<img width="1366" height="768" alt="preview" src="https://github.com/user-attachments/assets/888747d1-74a2-4d77-b927-beb3356b57d3" />
-<img width="1366" height="768" alt="preview (1)" src="https://github.com/user-attachments/assets/f989048b-2801-492f-a172-7ba0ffc1ffc2" />
+The goal is to understand whether the main challenge is attracting applicants or helping them complete their applications.
+
+## Key Dimensions & Features
+
+**Applicant Funnel:** Tracks applicants through the different stages, from application to acceptance.
+
+**Drop-Off Analysis:** Identifies the stages where applicants leave the process.
+
+**Conversion Analysis:** Measures how applicants move from one stage to the next.
+
+**Marketing Performance:** Compares applicant numbers with successful enrollments to understand campaign performance.
+
+**Regional Analysis:** Highlights regions with strong applicant performance and engagement.
+
+## Key Insights & Recommendations
+
+**Improve the Application Process:** Make eligibility requirements clearer and simplify application forms.
+
+**Support Applicants:** Improve onboarding and provide mentorship after acceptance.
+
+**Improve Communication:** Send clear information about deadlines and application requirements.
+
+**Focus on Strong Regions:** Increase marketing efforts in regions with better applicant performance.
+
+**Build Educational Partnerships:** Work with educational institutions to attract more suitable and engaged applicants.
